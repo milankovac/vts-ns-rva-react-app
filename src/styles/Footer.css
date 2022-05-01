@@ -1,0 +1,10 @@
+footer{
+    margin-top: 2%
+}
+footer p{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 13px;
+}
